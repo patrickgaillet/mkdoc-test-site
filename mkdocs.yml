@@ -1,0 +1,29 @@
+site_name: Test site
+site_description:  Test site
+copyright: "Copyright &copy; 2020 Haute école d'ingénierie et d'architecture de Fribourg"
+site_url: https://test-site-com/
+
+theme:
+  name: material
+  language: 'fr'
+  palette:
+    primary: 'blue'
+    accent: 'orange'
+  font:
+    text: 'Roboto'
+    code: 'IBM Plex Mono'
+  logo: 'img/heiafr.png'
+  favicon: 'img/favicon.ico'
+  feature: false
+
+markdown_extensions:
+  - footnotes
+  - pymdownx.smartsymbols
+  - codehilite
+  - admonition
+
+plugins:
+  - macros
+  
+extra:
+  year: 2020-2021

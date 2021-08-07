@@ -1,0 +1,13 @@
+image: $CI_REGISTRY/jacques.supcik/mkdocs-edu:latest
+
+pages:
+  script:
+    - python --version
+    - pip --version
+    - mkdocs --version
+    - mkdocs build -c -d public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
