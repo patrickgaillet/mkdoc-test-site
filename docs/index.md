@@ -4,11 +4,11 @@
 
 This mkdocs website is built using a custom action and deployed to github pages.
 
-The URL of this site is : [https://heiafr-isc.github.io/mkdoc-test-site/](https://heiafr-isc.github.io/mkdoc-test-site/)
+The URL of this site is : [https://patrickgaillet.github.io/mkdoc-test-site/](https://patrickgaillet.github.io/mkdoc-test-site/)
 
-The source is on github : [https://github.com/heiafr-isc/mkdoc-test-site](https://github.com/heiafr-isc/mkdoc-test-site)
+The source is on github : [https://github.com/patrickgaillet/mkdoc-test-site](https://github.com/patrickgaillet/mkdoc-test-site)
 
-Check the [action file](https://github.com/heiafr-isc/mkdoc-test-site/blob/main/.github/workflows/pages.yml) to learn how the site is build and deployed.
+Check the [action file](https://github.com/patrickgaillet/mkdoc-test-site/blob/main/.github/workflows/pages.yml) to learn how the site is build and deployed.
 
 ----
 
