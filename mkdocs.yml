@@ -1,7 +1,7 @@
 site_name: Test site
 site_description:  Test site
 copyright: "Copyright &copy; 2021 Haute école d'ingénierie et d'architecture de Fribourg"
-site_url: https://heiafr-isc.github.io/mkdoc-test-site/
+site_url: https://patrickgaillet.github.io/mkdoc-test-site/
 
 theme:
   name: material
@@ -26,4 +26,4 @@ plugins:
   - macros
   
 extra:
-  year: 2021-2022
+  year: 2024-2025
